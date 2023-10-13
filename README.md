@@ -15,5 +15,3 @@ and defeat you. Be careful not to get hit by their lasers or collide with them, 
 
 ## Built With
 JavaScript
-
-

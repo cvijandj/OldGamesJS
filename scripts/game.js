@@ -160,6 +160,7 @@ export class Game {
   }
   restart() {
     this.player.restart();
+    this.enemyLevel = 1;
     this.columns = 2;
     this.rows = 2;
     this.waves = [];
